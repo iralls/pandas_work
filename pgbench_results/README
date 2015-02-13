@@ -1,0 +1,7 @@
+pgbench provides load testing for PostgreSQL
+
+outputting to a csv file from pgbench is nice to plot
+in Pandas
+
+output to test.csv is run #, # clients (concurrent threads to PG), tps
+	(transactions/sec)
